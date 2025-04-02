@@ -5,7 +5,7 @@ Distort -> Pixelate
     0
     0
 
-3Displace
+PolyGlitch -> 3Displace
     -30
     20
 
@@ -15,12 +15,12 @@ Distort -> Pixelate
     10
     -30
 
-Pixel Drag
+PolyGlitch -> Pixel Drag
     1
     100
     25
     60
 
-Lumisort
+PolyGlitch -> Lumisort
     30
     
