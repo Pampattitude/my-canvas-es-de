@@ -81,11 +81,9 @@
         <fullname>Nintendo Super Game Boy Hacks</fullname>
         <path>%ROMPATH%\sgbh</path>
         <extension>.gb .GB .gbc .GBC .sgb .SGB .7z .7Z .zip .ZIP</extension>
-        <command label="Mesen-S">%EMULATOR_RETROARCH% -L %CORE_RETROARCH%\mesen-s_libretro.dll %ROM%</command>
-        <command label="Mesen (Standalone)">%EMULATOR_MESEN% --fullscreen --gameBoy.useSgb2=true %ROM%</command>
-        <command label="SameBoy">%EMULATOR_RETROARCH% -L %CORE_RETROARCH%\sameboy_libretro.dll %ROM%</command>
-        <command label="mGBA">%EMULATOR_RETROARCH% -L %CORE_RETROARCH%\mgba_libretro.dll %ROM%</command>
-        <command label="mGBA (Standalone)">%EMULATOR_MGBA% -f %ROM%</command>
+        <command label="Mesen-S">%EMULATOR_RETROARCH% %EXTRA_CONFIGFILE%=/storage/emulated/0/Android/data/%ANDROIDPACKAGE%/files/retroarch.cfg %EXTRA_LIBRETRO%=/data/data/%ANDROIDPACKAGE%/cores/mesen-s_libretro_android.so %EXTRA_ROM%=%ROM%</command>
+        <command label="SameBoy">%EMULATOR_RETROARCH% %EXTRA_CONFIGFILE%=/storage/emulated/0/Android/data/%ANDROIDPACKAGE%/files/retroarch.cfg %EXTRA_LIBRETRO%=/data/data/%ANDROIDPACKAGE%/cores/sameboy_libretro_android.so %EXTRA_ROM%=%ROM%</command>
+        <command label="mGBA">%EMULATOR_RETROARCH% %EXTRA_CONFIGFILE%=/storage/emulated/0/Android/data/%ANDROIDPACKAGE%/files/retroarch.cfg %EXTRA_LIBRETRO%=/data/data/%ANDROIDPACKAGE%/cores/mgba_libretro_android.so %EXTRA_ROM%=%ROM%</command>
         <platform>sgb</platform>
         <theme>sgbh</theme>
     </system>
