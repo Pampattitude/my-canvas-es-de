@@ -446,6 +446,10 @@
         <systemsortname>2004</systemsortname>
     </system>
     <system>
+        <name>ndsh</name>
+        <systemsortname>3004</systemsortname>
+    </system>
+    <system>
         <name>neogeo</name>
         <systemsortname>1990</systemsortname>
     </system>
@@ -560,6 +564,10 @@
     <system>
         <name>psx</name>
         <systemsortname>1994</systemsortname>
+    </system>
+    <system>
+        <name>psxh</name>
+        <systemsortname>2994</systemsortname>
     </system>
     <system>
         <name>pv1000</name>
