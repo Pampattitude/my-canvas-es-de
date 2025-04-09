@@ -285,7 +285,7 @@ license:                Attribution-NonCommercial-ShareAlike 2.0 (CC-BY-NC-SA)
          <zIndex>4</zIndex>
       </image>
       <badges name="badges">
-         <slots>all</slots>
+         <slots>favorite,kidgame,completed,broken,altemulator</slots>
          <customBadgeIcon badge="favorite">./_inc/images/badge-favorite.svg</customBadgeIcon>
          <customBadgeIcon badge="collection">./_inc/images/badge-collection.svg</customBadgeIcon>
          <customBadgeIcon badge="folder">./_inc/images/badge-folder.svg</customBadgeIcon>

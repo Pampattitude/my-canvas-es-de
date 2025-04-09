@@ -39,11 +39,11 @@
     </system>
     <system>
         <name>androidapps</name>
-        <systemsortname>0000</systemsortname>
+        <systemsortname>0010</systemsortname>
     </system>
     <system>
         <name>androidgames</name>
-        <systemsortname>0000</systemsortname>
+        <systemsortname>0011</systemsortname>
     </system>
     <system>
         <name>apple2</name>
@@ -55,7 +55,7 @@
     </system>
     <system>
         <name>arcade</name>
-        <systemsortname>0000</systemsortname>
+        <systemsortname>1000</systemsortname>
     </system>
     <system>
         <name>arcadia</name>
@@ -112,6 +112,18 @@
     <system>
         <name>atomiswave</name>
         <systemsortname>2003</systemsortname>
+    </system>
+    <system>
+        <name>auto-allgames</name>
+        <systemsortname>0001</systemsortname>
+    </system>
+    <system>
+        <name>auto-favorites</name>
+        <systemsortname>0002</systemsortname>
+    </system>
+    <system>
+        <name>auto-lastplayed</name>
+        <systemsortname>0003</systemsortname>
     </system>
     <system>
         <name>bbcmicro</name>
@@ -175,7 +187,7 @@
     </system>
     <system>
         <name>desktop</name>
-        <systemsortname>0000</systemsortname>
+        <systemsortname>0009</systemsortname>
     </system>
     <system>
         <name>doom</name>
@@ -203,7 +215,7 @@
     </system>
     <system>
         <name>emulators</name>
-        <systemsortname>0000</systemsortname>
+        <systemsortname>0012</systemsortname>
     </system>
     <system>
         <name>epic</name>
@@ -319,7 +331,7 @@
     </system>
     <system>
         <name>lcdgames</name>
-        <systemsortname>0000</systemsortname>
+        <systemsortname>0015</systemsortname>
     </system>
     <system>
         <name>lowresnx</name>
@@ -539,7 +551,7 @@
     </system>
     <system>
         <name>ports</name>
-        <systemsortname>0000</systemsortname>
+        <systemsortname>0013</systemsortname>
     </system>
     <system>
         <name>ps2</name>
@@ -711,7 +723,7 @@
     </system>
     <system>
         <name>tools</name>
-        <systemsortname>0000</systemsortname>
+        <systemsortname>0019</systemsortname>
     </system>
     <system>
         <name>triforce</name>

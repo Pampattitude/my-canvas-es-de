@@ -1,7 +1,7 @@
 <theme>
    <variables>
-      <systemName>Completed</systemName>
-      <systemDescription>Keep track of the games you've finished on RetroAchievements.</systemDescription>
+      <systemName>Achievements</systemName>
+      <systemDescription>Keep track of the games with RetroAchievements support.</systemDescription>
       <systemManufacturer>Various</systemManufacturer>
       <systemReleaseYear>Various</systemReleaseYear>
       <systemReleaseDate>Various</systemReleaseDate>
