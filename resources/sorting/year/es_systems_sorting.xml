@@ -114,18 +114,6 @@
         <systemsortname>2003</systemsortname>
     </system>
     <system>
-        <name>auto-allgames</name>
-        <systemsortname>0001</systemsortname>
-    </system>
-    <system>
-        <name>auto-favorites</name>
-        <systemsortname>0002</systemsortname>
-    </system>
-    <system>
-        <name>auto-lastplayed</name>
-        <systemsortname>0003</systemsortname>
-    </system>
-    <system>
         <name>bbcmicro</name>
         <systemsortname>1981</systemsortname>
     </system>
