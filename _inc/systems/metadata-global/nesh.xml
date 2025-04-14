@@ -13,5 +13,7 @@
       <systemColorPalette2>FFFFFF</systemColorPalette2>
       <systemColorPalette3>666666</systemColorPalette3>
       <systemColorPalette4>212121</systemColorPalette4>
-	  <systemCartSize>373-436</systemCartSize>    </variables>
+	   <systemCartSize>373-436</systemCartSize>    
+	   <screensize>4-3</screensize>    
+      </variables>
 </theme>
