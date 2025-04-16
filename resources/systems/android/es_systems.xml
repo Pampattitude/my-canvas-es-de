@@ -283,6 +283,18 @@
         <platform>psx</platform>
         <theme>psxh</theme>
     </system>
+    <system>
+        <name>segacdh</name>
+        <fullname>Sega CD Hacks</fullname>
+        <path>%ROMPATH%/segacdh</path>
+        <extension>.68k .68K .bin .BIN .bms .BMS .chd .CHD .cue .CUE .gen .GEN .gg .GG .iso .ISO .m3u .M3U .md .MD .mdx .MDX .sg .SG .sgd .SGD .smd .SMD .sms .SMS .7z .7Z .zip .ZIP</extension>
+        <command label="Genesis Plus GX">%EMULATOR_RETROARCH% %EXTRA_CONFIGFILE%=/storage/emulated/0/Android/data/%ANDROIDPACKAGE%/files/retroarch.cfg %EXTRA_LIBRETRO%=/data/data/%ANDROIDPACKAGE%/cores/genesis_plus_gx_libretro_android.so %EXTRA_ROM%=%ROM%</command>
+        <command label="Genesis Plus GX Wide">%EMULATOR_RETROARCH% %EXTRA_CONFIGFILE%=/storage/emulated/0/Android/data/%ANDROIDPACKAGE%/files/retroarch.cfg %EXTRA_LIBRETRO%=/data/data/%ANDROIDPACKAGE%/cores/genesis_plus_gx_wide_libretro_android.so %EXTRA_ROM%=%ROM%</command>
+        <command label="PicoDrive">%EMULATOR_RETROARCH% %EXTRA_CONFIGFILE%=/storage/emulated/0/Android/data/%ANDROIDPACKAGE%/files/retroarch.cfg %EXTRA_LIBRETRO%=/data/data/%ANDROIDPACKAGE%/cores/picodrive_libretro_android.so %EXTRA_ROM%=%ROM%</command>
+        <command label="MD.emu (Standalone)">%EMULATOR_MD-EMU% %DATA%=%ROMSAF%</command>
+        <platform>segacd</platform>
+        <theme>segacdh</theme>
+    </system>
 	<system>
 		<name>snesh</name>
 		<fullname>Nintendo SNES (Super Nintendo) Hacks</fullname>

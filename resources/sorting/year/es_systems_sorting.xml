@@ -618,6 +618,10 @@
         <systemsortname>1992</systemsortname>
     </system>
     <system>
+        <name>segacdh</name>
+        <systemsortname>2992</systemsortname>
+    </system>
+    <system>
         <name>sfc</name>
         <systemsortname>1990</systemsortname>
     </system>
