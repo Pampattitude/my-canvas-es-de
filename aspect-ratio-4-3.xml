@@ -239,8 +239,8 @@ based on 1920x1440
             <metaDatafontSize>0.024</metaDatafontSize>
             <descriptionPos>0.691</descriptionPos>
             <descriptionHeight>0.125</descriptionHeight>
-            <descriptionFontSize>0.023</descriptionFontSize>
-            <descriptionLineSpacing>1.2</descriptionLineSpacing>
+            <descriptionFontSize>0.01725</descriptionFontSize>
+            <descriptionLineSpacing>0.9</descriptionLineSpacing>
             <badgepos>0.0301875 0.873</badgepos>
             <badgeposFlipped>0.5201875 0.873</badgeposFlipped>
             <badgesize>0.26 0.118</badgesize>
@@ -251,8 +251,8 @@ based on 1920x1440
             <metaDatafontSize>0.026</metaDatafontSize>
             <descriptionPos>0.691</descriptionPos>
             <descriptionHeight>0.125</descriptionHeight>
-            <descriptionFontSize>0.025</descriptionFontSize>
-            <descriptionLineSpacing>1.45</descriptionLineSpacing>
+            <descriptionFontSize>0.01875</descriptionFontSize>
+            <descriptionLineSpacing>1.0875</descriptionLineSpacing>
             <badgepos>0.0301875 0.878</badgepos>
             <badgeposFlipped>0.5201875 0.878</badgeposFlipped>
             <badgesize>0.28 0.128</badgesize>
@@ -263,8 +263,8 @@ based on 1920x1440
             <metaDatafontSize>0.032</metaDatafontSize>
             <descriptionPos>0.675</descriptionPos>
             <descriptionHeight>0.155</descriptionHeight>
-            <descriptionFontSize>0.030</descriptionFontSize>
-            <descriptionLineSpacing>1.35</descriptionLineSpacing>
+            <descriptionFontSize>0.0225</descriptionFontSize>
+            <descriptionLineSpacing>1.0125</descriptionLineSpacing>
             <badgepos>0.0301875 0.885</badgepos>
             <badgeposFlipped>0.5201875 0.885</badgeposFlipped>
             <badgesize>0.25 0.14</badgesize>
@@ -275,8 +275,8 @@ based on 1920x1440
             <metaDatafontSize>0.027</metaDatafontSize>
             <descriptionPos>0.681</descriptionPos>
             <descriptionHeight>0.11</descriptionHeight>
-            <descriptionFontSize>0.027</descriptionFontSize>
-            <descriptionLineSpacing>1.4</descriptionLineSpacing>
+            <descriptionFontSize>0.02025</descriptionFontSize>
+            <descriptionLineSpacing>1.05</descriptionLineSpacing>
             <badgepos>0.0271875 0.9</badgepos>
             <badgeposFlipped>0.5271875 0.9</badgeposFlipped>
             <badgesize>0.32 0.16</badgesize>
