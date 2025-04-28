@@ -7,31 +7,24 @@
 			<entry>xyz.aethersx2.custom/xyz.aethersx2.android.EmulationActivity</entry>
 		</rule>
 	</emulator>
-	<emulator name="AZAHAR">
-        <!-- Nintendo 3DS emulator AZAHAR -->
-        <rule type="androidpackage">
-			<entry>io.github.lime3ds.android/org.citra.citra_emu.activities.EmulationActivity</entry>
-        </rule>
-    </emulator>
+	<emulator name="AZAHARPLUS">
+		<!-- Nintendo 3DS emulator AzaharPlus-coexist -->
+		<rule type="androidpackage">
+			<entry>io.github.azaharplus.android/org.citra.citra_emu.activities.EmulationActivity</entry>
+		</rule>
+	</emulator>
 	<emulator name="BORKED3DS">
-        <!-- Nintendo 3DS emulator Borked3DS -->
-        <rule type="androidpackage">
-            <entry>io.github.borked3ds.android/.activities.EmulationActivity</entry>
-        </rule>
-    </emulator>
-	<emulator name="CEMU">
-        <!-- Nintendo Wii U emulator Cemu -->
-        <rule type="androidpackage">
-            <entry>info.cemu.Cemu/info.cemu.Cemu.emulation.EmulationActivity</entry>
-			<entry>info.cemu.cemu/info.cemu.cemu.emulation.EmulationActivity</entry>
-        </rule>
-    </emulator>
+		<!-- Nintendo 3DS emulator Borked3DS -->
+		<rule type="androidpackage">
+			<entry>io.github.borked3ds.android/.activities.EmulationActivity</entry>
+		</rule>
+	</emulator>
 	<emulator name="CITRA-ENHANCED">
 		<!-- Nintendo 3DS emulator Citra Enhanced -->
 		<rule type="androidpackage">
 			<entry>org.gamerytb.citra.canary/org.citra.citra_emu.ui.main.MainActivity</entry>
 		</rule>
-	</emulator>	
+	</emulator>
 	<emulator name="CITRON">
 		<!-- Nintendo Switch emulator Citron -->
 		<rule type="androidpackage">
@@ -48,33 +41,33 @@
 		</rule>
 	</emulator>
 	<emulator name="DOLPHIN-ENHANCED">
-        <!-- Nintendo GameCube and Wii emulator Dolphin Enhanced -->
-        <rule type="androidpackage">
-            <entry>org.mm.j/org.dolphinemu.dolphinemu.ui.main.MainActivity</entry>
-        </rule>
-    </emulator>
-	<emulator name="MANDARINE">
-		<!-- Nintendo 3DS emulator Mandarine -->
+		<!-- Nintendo GameCube and Wii emulator Dolphin Enhanced -->
 		<rule type="androidpackage">
-			<entry>io.github.mandarine3ds.mandarine/io.github.mandarine3ds.mandarine.activities.EmulationActivity</entry>
+			<entry>org.mm.j/org.dolphinemu.dolphinemu.ui.main.MainActivity</entry>
 		</rule>
-	</emulator>	
+	</emulator>
+	<emulator name="DOLPHIN-PRIMEHACK">
+		<!-- Nintendo GameCube and Wii emulator Dolphin -->
+		<rule type="androidpackage">
+			<entry>org.shiiion.primehack/org.dolphinemu.dolphinemu.ui.main.MainActivity</entry>
+		</rule>
+	</emulator>
+	<emulator name="EDEN">
+		<!-- Nintendo Switch emulator Eden -->
+		<rule type="androidpackage">
+			<entry>com.antutu.ABenchMark/org.yuzu.yuzu_emu.activities.EmulationActivity</entry>
+		</rule>
+	</emulator>
 	<emulator name="NYUSHU">
 		<!-- Nintendo Switch emulator Nyushu -->
 		<rule type="androidpackage">
 			<entry>com.andromeda.androbench2/org.suyu.suyu_emu.activities.EmulationActivity</entry>
 		</rule>
 	</emulator>
-	<emulator name="PIZZA-BOY-SC">
-        <!-- Sega multi-system emulator Pizza Boy SC -->
-        <rule type="androidpackage">
-            <entry>it.dbtecno.pizzaboyscpro/.MainActivity</entry>
-        </rule>
-    </emulator>
-	<emulator name="SKYLINE">
-		<!-- Nintendo Switch emulator Skyline -->
+	<emulator name="RPCSX">
+		<!-- Sony PlayStation 3 emulator RPCSX -->
 		<rule type="androidpackage">
-			<entry>skyline.emu/emu.skyline.EmulationActivity</entry>
+			<entry>net.rpcsx/.MainActivity</entry>
 		</rule>
 	</emulator>
 	<emulator name="SUDACHI">
@@ -100,6 +93,12 @@
 			<entry>org.uzuy.uzuy_emu.mmjr/org.uzuy.uzuy_emu.activities.EmulationActivity</entry>
 			<entry>com.antutu.ABenchMark.ea/org.uzuy.uzuy_emu.activities.EmulationActivity</entry>
 			<entry>com.antutu.ABenchMark/org.uzuy.uzuy_emu.activities.EmulationActivity</entry>
+		</rule>
+	</emulator>
+	<emulator name="VITA3KZX">
+		<!-- Sony PlayStation Vita emulator Vita3K ZX -->
+		<rule type="androidpackage">
+			<entry>org.vita3k.emulator.ikhoeyZX/org.vita3k.emulator.Emulator</entry>
 		</rule>
 	</emulator>
 	<emulator name="YUZU">
