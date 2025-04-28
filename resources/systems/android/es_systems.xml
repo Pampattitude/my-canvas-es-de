@@ -535,15 +535,15 @@
         <platform>ps2</platform>
         <theme>ps2</theme>
     </system>
-    <system>
+	<system>
         <name>ps3</name>
         <fullname>Sony PlayStation 3</fullname>
         <path>%ROMPATH%/ps3</path>
         <extension>.ps3 .PS3 .7z .7Z .zip .ZIP</extension>
-        <command>%EMULATOR_RPCSX%</command>
+        <command label="RPCSX">%EMULATOR_RPCSX%</command>
         <platform>ps3</platform>
         <theme>ps3</theme>
-    </system>
+	</system>
     <system>
         <name>psvita</name>
         <fullname>Sony PlayStation Vita</fullname>
